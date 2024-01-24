@@ -1,3 +1,37 @@
+# Coffee Vending Machine Simulation
+
+This project is a simple coffee vending machine simulation implemented using React.js. Users can select the size and quantity of coffee, add it to their order, and view a bill breakdown.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm should be installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/coffee-vending-machine.git
+
+
+Open http://localhost:3000 in your browser to view the application.
+
+### Features
+
+Select coffee size (Small, Medium, Large).
+Specify the quantity of coffee.
+Add coffee to the order.
+View the order summary.
+Calculate and display the bill breakdown.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
